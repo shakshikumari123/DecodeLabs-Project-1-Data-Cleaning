@@ -293,7 +293,7 @@ The change log is available here:
 
 ## 📁 Project Structure
 
-```text
+
 DecodeLabs-Project-1-Data-Cleaning/
 │
 ├── README.md
